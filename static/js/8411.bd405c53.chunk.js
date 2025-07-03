@@ -1,0 +1,2 @@
+(self.webpackChunk_uniswap_interface=self.webpackChunk_uniswap_interface||[]).push([[8411],{68411:e=>{function n(e){return Promise.resolve().then((()=>{var n=new Error("Cannot find module '"+e+"'");throw n.code="MODULE_NOT_FOUND",n}))}n.keys=()=>[],n.resolve=n,n.id=68411,e.exports=n}}]);
+//# sourceMappingURL=8411.bd405c53.chunk.js.map
