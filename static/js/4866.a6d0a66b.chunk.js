@@ -1,0 +1,7 @@
+"use strict";(self.webpackChunk_uniswap_interface=self.webpackChunk_uniswap_interface||[]).push([[4866],{64866:(e,n,o)=>{o.r(n),o.d(n,{default:()=>j});var i=o(97755),s=o(65375),r=o(96296),c=o(17041),a=o(75114),t=o(82663),l=o(99695),d=o(19329),m=o(55675),p=o(59793),x=o(82746),h=o(95336),u=o(46433),g=o(56156);const f=(0,r.ZP)(s.ZP)`
+  align-items: center;
+  margin: 32px;
+  text-align: center;
+  font-size: 12px;
+`;function j(e){const n=(0,g.m)(),o=(0,c.useTheme)();return(0,i.jsx)(h.Modal,{name:u.ModalName.AccountBlocked,isModalOpen:e.isOpen,onClose:e.closeModal,padding:0,children:(0,i.jsxs)(f,{children:[(0,i.jsx)(a.Z,{size:"22px",color:o.neutral2}),(0,i.jsx)(l.T.DeprecatedLargeHeader,{lineHeight:2,marginBottom:1,marginTop:1,children:(0,i.jsx)(t.Trans,{i18nKey:"common.blockedAddress"})}),(0,i.jsx)(p.Text,{color:"$neutral2",fontSize:14,mb:12,children:n.address}),(0,i.jsx)(l.T.DeprecatedMain,{fontSize:12,marginBottom:12,children:(0,i.jsx)(t.Trans,{i18nKey:"common.blocked.reason",components:{link:(0,i.jsx)(m.d,{href:"https://help.uniswap.org/en/articles/6149816"})}})}),(0,i.jsx)(l.T.DeprecatedMain,{fontSize:12,children:(0,i.jsx)(t.Trans,{i18nKey:"common.blocked.ifError",components:{emailAddress:(0,i.jsx)(x.Flex,{mt:12,alignItems:"center",children:(0,i.jsx)(d.W,{toCopy:"compliance@uniswap.org",fontSize:14,iconSize:16,color:o.accent1,iconPosition:"right",children:"compliance@uniswap.org"})})}})})]})})}}}]);
+//# sourceMappingURL=4866.a6d0a66b.chunk.js.map
