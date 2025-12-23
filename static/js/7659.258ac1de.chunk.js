@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_uniswap_interface=self.webpackChunk_uniswap_interface||[]).push([[40],{30040:(c,a,l)=>{l.r(a),l.d(a,{nftPlaceholderSvg:()=>e});const e=l(1619).JW`<svg fill="none" viewBox="0 0 20 20">
+"use strict";(self.webpackChunk_uniswap_interface=self.webpackChunk_uniswap_interface||[]).push([[7659],{30040:(c,a,l)=>{l.r(a),l.d(a,{nftPlaceholderSvg:()=>e});const e=l(1619).JW`<svg fill="none" viewBox="0 0 20 20">
   <path
     fill="currentColor"
     fill-rule="evenodd"
@@ -6,4 +6,4 @@
     clip-rule="evenodd"
   />
 </svg>`}}]);
-//# sourceMappingURL=40.6895c757.chunk.js.map
+//# sourceMappingURL=7659.258ac1de.chunk.js.map
